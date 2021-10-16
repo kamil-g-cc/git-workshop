@@ -1,2 +1,5 @@
 test
 test2
+function moje_sortowanie(){
+  ...
+}
