@@ -1,2 +1,8 @@
-test(a, b)
+function test(){
+  ...
+}
 test2
+function moje_sortowanie(){
+  ...
+  test
+}
